@@ -2,27 +2,69 @@
 <a href=https://github.com/Krys301>Aspiring AI Prompt Engineer</a> & <a href="https://github.com/KrystianStratynski">Software Developer</a>
 </h1>
 
-<h2>👨‍💻 Projects</h2>
+## ⚙️ Electrical & Computer Engineering Projects
 
-- <b>Electrical & Computer Engineering Projects</b>
-  - [Ball and Beam PID Control System (Arduino + Ultrasonic Sensor + Stepper Motor)](https://github.com/Krys301/Control-Systems-project/blob/main/README.md)
-  - [Analogue Electronics — Design, Simulation & Analysis](https://github.com/Krys301/AnalogueElectronics/blob/main/README.md)
-  - [Home Security System with Keypad, LCD, and PIR Sensor](https://github.com/KrystianStratynski/Home-Security-System)
-- <b>Software & AI Practice</b>
-  - [Python: Data Structures & Algorithms Practice](https://github.com/KrystianStratynski/DSA-Practice)
-  - [Java: Concurrency and Operating Systems Problems](https://github.com/KrystianStratynski/OS-Concurrency-Practice)
-  - [Machine Learning Experiments (coming soon)](https://github.com/KrystianStratynski/AI-Projects)
-  - [Chatbot Automation with Prompt Engineering](https://github.com/KrystianStratynski/Prompt-AI-Bots)
+<div style="background-color:#f5f5f5; padding:15px; border-radius:10px; margin-bottom:10px;">
+  <a href="https://github.com/Krys301/Control-Systems-project/blob/main/README.md">
+    <img src="https://img.shields.io/badge/🛠_Ball_and_Beam_PID_Control_System-gray?style=for-the-badge" alt="Ball and Beam PID Control System"/>
+  </a>
+  <p><b>Ball and Beam PID Control System (Arduino + Ultrasonic Sensor + Stepper Motor)</b><br>
+  A closed-loop control system that balances a ball at a desired position using PID tuning principles.</p>
+</div>
 
-<h2>📚 Modules I'm Currently Studying at Maynooth University</h2>
+<div style="background-color:#f5f5f5; padding:15px; border-radius:10px; margin-bottom:10px;">
+  <a href="https://github.com/Krys301/AnalogueElectronics/blob/main/README.md">
+    <img src="https://img.shields.io/badge/⚡_Analog_Electronics_—_Design,_Simulation_&_Analysis-gray?style=for-the-badge" alt="Analog Electronics"/>
+  </a>
+  <p><b>Analog Electronics — Design, Simulation & Analysis</b><br>
+  Practical analog circuit design and simulation covering op-amps, instrumentation amplifiers, and transistor amplifiers.</p>
+</div>
 
-- EE202 – Introduction to Telecommunications  
-- EE223 – Electrical Circuits  
-- EE216 – Control Systems  
-- CS240 – Operating Systems & Concurrency  
-- EE302 – Embedded Systems / Microcontrollers  
-- Calculus 4 & Linear Algebra 2  
-- Probability & Statistics  
+<div style="background-color:#f5f5f5; padding:15px; border-radius:10px; margin-bottom:10px;">
+  <a href="https://github.com/KrystianStratynski/Home-Security-System">
+    <img src="https://img.shields.io/badge/🏠_Home_Security_System-gray?style=for-the-badge" alt="Home Security System"/>
+  </a>
+  <p><b>Home Security System with Keypad, LCD, and PIR Sensor</b><br>
+  Arduino-based alarm system integrating sensors, LCD feedback, and password authentication.</p>
+</div>
+
+---
+
+## 💻 Software & AI Practice
+
+<div style="background-color:#f5f5f5; padding:15px; border-radius:10px; margin-bottom:10px;">
+  <a href="https://github.com/KrystianStratynski/DSA-Practice">
+    <img src="https://img.shields.io/badge/🐍_Python:_Data_Structures_&_Algorithms_Practice-gray?style=for-the-badge" alt="Python DSA"/>
+  </a>
+  <p><b>Python: Data Structures & Algorithms Practice</b><br>
+  Implementing and optimizing core algorithms and data structures in Python.</p>
+</div>
+
+<div style="background-color:#f5f5f5; padding:15px; border-radius:10px; margin-bottom:10px;">
+  <a href="https://github.com/KrystianStratynski/OS-Concurrency-Practice">
+    <img src="https://img.shields.io/badge/☕_Java:_Concurrency_&_Operating_Systems_Problems-gray?style=for-the-badge" alt="Java Concurrency"/>
+  </a>
+  <p><b>Java: Concurrency and Operating Systems Problems</b><br>
+  Multithreaded programming using semaphores, synchronization, and scheduling concepts.</p>
+</div>
+
+<div style="background-color:#f5f5f5; padding:15px; border-radius:10px; margin-bottom:10px;">
+  <a href="https://github.com/KrystianStratynski/AI-Projects">
+    <img src="https://img.shields.io/badge/🤖_Machine_Learning_Experiments_(Coming_Soon)-gray?style=for-the-badge" alt="Machine Learning Experiments"/>
+  </a>
+  <p><b>Machine Learning Experiments (Coming Soon)</b><br>
+  Early-stage exploration of supervised learning and neural network models.</p>
+</div>
+
+<div style="background-color:#f5f5f5; padding:15px; border-radius:10px; margin-bottom:10px;">
+  <a href="https://github.com/KrystianStratynski/Prompt-AI-Bots">
+    <img src="https://img.shields.io/badge/💬_Chatbot_Automation_with_Prompt_Engineering-gray?style=for-the-badge" alt="Chatbot Automation"/>
+  </a>
+  <p><b>Chatbot Automation with Prompt Engineering</b><br>
+  AI-driven automation and workflow optimization through advanced prompt design.</p>
+</div>
+
+
 
 <h2>📺 YouTube Inspiration & Tutorials</h2>
 
