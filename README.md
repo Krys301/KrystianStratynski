@@ -5,8 +5,7 @@
 <h2>👨‍💻 Projects</h2>
 
 - <b>Electrical & Computer Engineering Projects</b>
-  - [Ball and Beam PID Control System (Arduino + Ultrasonic Sensor + Stepper Motor)](https://github.com/KrystianStratynski/Ball-Beam-Control)
-  - [Temperature-Controlled Fan using Arduino and DHT11](https://github.com/KrystianStratynski/Temp-Fan-Control)
+  - [Ball and Beam PID Control System (Arduino + Ultrasonic Sensor + Stepper Motor)](https://github.com/Krys301/Control-Systems-project/blob/main/README.md)
   - [LED Sequence Memory Game (Random Pattern Generation)](https://github.com/KrystianStratynski/LED-Memory-Game)
   - [Home Security System with Keypad, LCD, and PIR Sensor](https://github.com/KrystianStratynski/Home-Security-System)
 - <b>Software & AI Practice</b>
