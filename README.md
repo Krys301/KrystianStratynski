@@ -1,8 +1,8 @@
 <h1>Hi, I'm Krystian Stratynski! <br/>
-<a href="https://github.com/KrystianStratynski">Aspiring AI Prompt Engineer</a> & <a href="https://github.com/KrystianStratynski">Software Developer</a>
+<a href=https://github.com/Krys301>Aspiring AI Prompt Engineer</a> & <a href="https://github.com/KrystianStratynski">Software Developer</a>
 </h1>
 
-<h2>👨‍💻 Projects & University Labs</h2>
+<h2>👨‍💻 Projects</h2>
 
 - <b>Electrical & Computer Engineering Projects</b>
   - [Ball and Beam PID Control System (Arduino + Ultrasonic Sensor + Stepper Motor)](https://github.com/KrystianStratynski/Ball-Beam-Control)
