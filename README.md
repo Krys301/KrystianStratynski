@@ -20,7 +20,7 @@ Software Engineering Student</a> | Maynooth University</a>
   <p><b>Java: Concurrency and Operating Systems Problems</b><br>
   Multithreaded programming using semaphores, synchronization, and scheduling concepts.</p>
 </div>
-
+<!--
 <div style="background-color:#f5f5f5; padding:15px; border-radius:10px; margin-bottom:10px;">
   <a href="https://github.com/KrystianStratynski/AI-Projects">
     <img src="https://img.shields.io/badge/🤖_Machine_Learning_Experiments_(Coming_Soon)-gray?style=for-the-badge" alt="Machine Learning Experiments"/>
@@ -36,7 +36,7 @@ Software Engineering Student</a> | Maynooth University</a>
   <p><b>Chatbot Automation with Prompt Engineering</b><br>
   AI-driven automation and workflow optimization through advanced prompt design.</p>
 </div>
-
+-->
 
 ## ⚙️ Electrical & Computer Engineering Projects
 
@@ -57,8 +57,8 @@ Software Engineering Student</a> | Maynooth University</a>
 </div>
 
 <div style="background-color:#f5f5f5; padding:15px; border-radius:10px; margin-bottom:10px;">
-  <a href="https://github.com/KrystianStratynski/Home-Security-System">
-    <img src="https://img.shields.io/badge/🏠_Home_Security_System-gray?style=for-the-badge" alt="Home Security System"/>
+  <a href="https://github.com/Krys301/Embedded-Realtime-Crash-Detection-System/blob/main/README.md">
+    <img src="https://img.shields.io/badge/ 🚗 Crash Detection System-gray?style=for-the-badge" alt="Home Security System"/>
   </a>
   <p><b>Home Security System with Keypad, LCD, and PIR Sensor</b><br>
   Arduino-based alarm system integrating sensors, LCD feedback, and password authentication.</p>
