@@ -1,34 +1,7 @@
 <h1>Hi, I'm Krystian Stratynski! <br/>
-<a href=https://github.com/Krys301>Aspiring AI Prompt Engineer</a> & <a href="https://github.com/KrystianStratynski">Software Developer</a>
+Software Engineering Student</a> | Maynooth University</a>
 </h1>
 
-## ⚙️ Electrical & Computer Engineering Projects
-
-<div style="background-color:#f5f5f5; padding:15px; border-radius:10px; margin-bottom:10px;">
-  <a href="https://github.com/Krys301/Control-Systems-project/blob/main/README.md">
-    <img src="https://img.shields.io/badge/🛠_Ball_and_Beam_PID_Control_System-gray?style=for-the-badge" alt="Ball and Beam PID Control System"/>
-  </a>
-  <p><b>Ball and Beam PID Control System (Arduino + Ultrasonic Sensor + Stepper Motor)</b><br>
-  A closed-loop control system that balances a ball at a desired position using PID tuning principles.</p>
-</div>
-
-<div style="background-color:#f5f5f5; padding:15px; border-radius:10px; margin-bottom:10px;">
-  <a href="https://github.com/Krys301/AnalogueElectronics/blob/main/README.md">
-    <img src="https://img.shields.io/badge/⚡_Analog_Electronics_—_Design,_Simulation_&_Analysis-gray?style=for-the-badge" alt="Analog Electronics"/>
-  </a>
-  <p><b>Analog Electronics — Design, Simulation & Analysis</b><br>
-  Practical analog circuit design and simulation covering op-amps, instrumentation amplifiers, and transistor amplifiers.</p>
-</div>
-
-<div style="background-color:#f5f5f5; padding:15px; border-radius:10px; margin-bottom:10px;">
-  <a href="https://github.com/KrystianStratynski/Home-Security-System">
-    <img src="https://img.shields.io/badge/🏠_Home_Security_System-gray?style=for-the-badge" alt="Home Security System"/>
-  </a>
-  <p><b>Home Security System with Keypad, LCD, and PIR Sensor</b><br>
-  Arduino-based alarm system integrating sensors, LCD feedback, and password authentication.</p>
-</div>
-
----
 
 ## 💻 Software & AI Practice
 
@@ -65,6 +38,33 @@
 </div>
 
 
+## ⚙️ Electrical & Computer Engineering Projects
+
+<div style="background-color:#f5f5f5; padding:15px; border-radius:10px; margin-bottom:10px;">
+  <a href="https://github.com/Krys301/Control-Systems-project/blob/main/README.md">
+    <img src="https://img.shields.io/badge/🛠_Ball_and_Beam_PID_Control_System-gray?style=for-the-badge" alt="Ball and Beam PID Control System"/>
+  </a>
+  <p><b>Ball and Beam PID Control System (Arduino + Ultrasonic Sensor + Stepper Motor)</b><br>
+  A closed-loop control system that balances a ball at a desired position using PID tuning principles.</p>
+</div>
+
+<div style="background-color:#f5f5f5; padding:15px; border-radius:10px; margin-bottom:10px;">
+  <a href="https://github.com/Krys301/AnalogueElectronics/blob/main/README.md">
+    <img src="https://img.shields.io/badge/⚡_Analog_Electronics_—_Design,_Simulation_&_Analysis-gray?style=for-the-badge" alt="Analog Electronics"/>
+  </a>
+  <p><b>Analog Electronics — Design, Simulation & Analysis</b><br>
+  Practical analog circuit design and simulation covering op-amps, instrumentation amplifiers, and transistor amplifiers.</p>
+</div>
+
+<div style="background-color:#f5f5f5; padding:15px; border-radius:10px; margin-bottom:10px;">
+  <a href="https://github.com/KrystianStratynski/Home-Security-System">
+    <img src="https://img.shields.io/badge/🏠_Home_Security_System-gray?style=for-the-badge" alt="Home Security System"/>
+  </a>
+  <p><b>Home Security System with Keypad, LCD, and PIR Sensor</b><br>
+  Arduino-based alarm system integrating sensors, LCD feedback, and password authentication.</p>
+</div>
+
+---
 
 <h2>📺 YouTube Inspiration & Tutorials</h2>
 
