@@ -6,15 +6,15 @@ Software Engineering Student</a> | Maynooth University</a>
 ## 💻 Software & AI Practice
 
 <div style="background-color:#f5f5f5; padding:15px; border-radius:10px; margin-bottom:10px;">
-  <a href="https://github.com/KrystianStratynski/DSA-Practice">
-    <img src="https://img.shields.io/badge/🐍_Python:_Data_Structures_&_Algorithms_Practice-gray?style=for-the-badge" alt="Python DSA"/>
+  <a href="https://github.com/Krys301/Expense-Tracking-Web-App/blob/2eca62ec30afc53af4c36e54c63b95279e763032/README.md">
+    <img src="https://img.shields.io/badge/💵 Expense Tracking Web App-gray?style=for-the-badge" alt="Web app"/>
   </a>
-  <p><b>Python: Data Structures & Algorithms Practice</b><br>
+  <p><b>Java Concurrency Problems</b><br>
   Implementing and optimizing core algorithms and data structures in Python.</p>
 </div>
 
 <div style="background-color:#f5f5f5; padding:15px; border-radius:10px; margin-bottom:10px;">
-  <a href="https://github.com/KrystianStratynski/OS-Concurrency-Practice">
+  <a href="https://github.com/Krys301/Java-Concurrency-Problem">
     <img src="https://img.shields.io/badge/☕_Java:_Concurrency_&_Operating_Systems_Problems-gray?style=for-the-badge" alt="Java Concurrency"/>
   </a>
   <p><b>Java: Concurrency and Operating Systems Problems</b><br>
